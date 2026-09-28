@@ -35,6 +35,4 @@ Open `ipo_performance_analysis.ipynb` in Jupyter or Google Colab and run the cel
 
 Results depend on data availability and may change over time. The RSI backtest treats each signal as an independent investment and excludes trading costs. The Sharpe calculation follows the course formula and differs from the conventional returns-based definition.
 
-## Background
 
-Developed from a financial data analysis course assignment and presented as a portfolio project.
